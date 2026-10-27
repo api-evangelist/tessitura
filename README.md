@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Tessitura is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://tessitura.com/
+Tessitura provides a unified platform for arts and cultural organizations, delivering integrated CRM, ticketing, admissions, fundraising, memberships, marketing, education, and e‑commerce solutions. Their cloud‑based system helps nonprofits manage audiences, revenue, and engagement across multiple channels, supporting venues, museums, festivals, orchestras, and other cultural institutions worldwide.
+
+**Areas:** Company · Arts · Culture · Nonprofit · CRM · Ticketing
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://tessitura.com/)
+- [Documentation](https://www.tessitura.com/about)
+- [Pricing](https://www.tessitura.com/items/support/alerts/2024/pricing-rules-fix)
+- [Support](https://www.tessitura.com/support)
+- [Changelog](https://www.tessitura.com/files/misc/links/release-notes)
+- [Blog](https://www.tessitura.com/about/news)
+- [Security](https://www.tessitura.com/support/security)
+- [Terms of service](https://www.tessitura.com/About/Terms-of-Use)
+- [Privacy policy](https://www.tessitura.com/about/privacy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/tessitura/](https://apis.io/providers/tessitura/).
